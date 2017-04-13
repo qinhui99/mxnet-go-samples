@@ -16,7 +16,7 @@ run the code:
 go run predict_flower.go -file  camellia.jpg
 
 2. Inception Model.
-The model comes from http://data.mxnet.io/mxnet/models/imagenet/inception-bn/
+The model comes from http://data.mxnet.io/mxnet/models/imagenet/inception-bn/<br>
 We can use it to classify 1000 objects.
 
 run the code:
