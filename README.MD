@@ -9,21 +9,21 @@ The samples are based on Mxnet and go-mxnet-predictor.  Therefore we need:
 
 We have three samples.
 
-1. OXFORD 102 flower Model.  
+1. OXFORD 102 flower Model.  <br>
 We can use it to classify 102 flowers .
 
-run the code:
-go run predict_flower.go -file  camellia.jpg
 
-2. Inception Model.
+2. Inception Model. <br>
 The model comes from http://data.mxnet.io/mxnet/models/imagenet/inception-bn/<br>
 We can use it to classify 1000 objects.
 
-run the code:
-go run predict_inception.go -file paper.jpg
 
-3. Iris dataset Model.
+3. Iris dataset Model. <br>
 Show how to classify iris dataset.
 
-run the code:
-go run predict_iris.go
+To run the codes, you should:
+ git clone https://github.com/qinhui99/mxnet-go-samples
+ 
+ The you can run the codes in the go directory.
+ 
+ 
