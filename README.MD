@@ -19,11 +19,11 @@ We can use it to classify 1000 objects.
 
 
 3. Iris dataset Model. <br>
-Show how to classify iris dataset.
+Show how to classify iris dataset through go api.
 
 To run the codes, you should:<br>
  git clone https://github.com/qinhui99/mxnet-go-samples
  
- The you can run the codes in the go directory.
+ Then you can run the codes in the go directory.
  
  
